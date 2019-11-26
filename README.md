@@ -22,4 +22,5 @@ Para la visualización de dichos datos se usará Python y Tableau.
 
 ### **Data visualizations:**
 * **tableau/Periodismo de datos_ Menores Condenados.twbx**: fichero de tipo tableau con el que se ha creado el dashboard para la visualización de los menores condenados en España. Dicha visualización está publicada en Tableau Public en el siguiente enlace: https://public.tableau.com/shared/KPTZ74WGN?:display_count=y&:origin=viz_share_link.
-
+* **tableau/La población en España.twbx**: fichero de tipo tableau con el que se ha creado el dashboard para la visualización de la población en España. Dicha visualización está publicada en Tableau Public en el siguiente enlace: 
+https://public.tableau.com/views/LapoblacinenEspaa/Dashboard1?:display_count=y&publish=yes&:origin=viz_share_link
