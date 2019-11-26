@@ -3,6 +3,7 @@
 ## **Descripción:**
 Esta práctica se ha realizado en el contexto de la asignatura Periodismo de datos, perteneciente al Máster en Ciencia de Datos de la Universitat Oberta de Catalunya. En ella, se debe elaborar un reportaje de periodismo de datos. 
 Para preparar los datos y analizarlos para poder extraer información y conocimiento de ellos se usará Python.
+Para la visualización de dichos datos se usará Python y Tableau.
 
 
 ## **Tabla de contenidos:**
@@ -18,3 +19,7 @@ Para preparar los datos y analizarlos para poder extraer información y conocimi
 ### **Final dataset:**
 * **generated_output/output_condenas_menores.xlsx**: fichero excel con el dataset final que contiene los menores condenados anuales según el sexo, la edad y la nacionalidad de los años 2018 a 2013.
 * **generated_output/**: 
+
+### **Data visualizations:**
+* **tableau/Periodismo de datos_ Menores Condenados.twbx**: fichero de tipo tableau con el que se ha creado el dashboard para la visualización de los menores condenados en España.
+
