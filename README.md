@@ -2,7 +2,7 @@
 
 ## **Descripción:**
 Esta práctica se ha realizado en el contexto de la asignatura Periodismo de datos, perteneciente al Máster en Ciencia de Datos de la Universitat Oberta de Catalunya. En ella, se debe elaborar un reportaje de periodismo de datos. 
-Para preparar los datos y analizarlos para poder extraer información y conocimiento de ellos se usará Python.
+Para preparar los datos y analizarlos con el objetivo de extraer información y conocimiento de ellos se usará Python.
 Para la visualización de dichos datos se usará Python y Tableau.
 
 
