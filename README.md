@@ -18,7 +18,7 @@ Para la visualización de dichos datos se usará Python y Tableau.
  
 ### **Final dataset:**
 * **generated_output/output_condenas_menores.xlsx**: fichero excel con el dataset final que contiene los menores condenados anuales según el sexo, la edad y la nacionalidad de los años 2018 a 2013.
-* **generated_output/output_poblacion.xlsx**: fichero excel con el dataset final que contiene la población de España con nacionalidad española, africana o total, por sexo y por grupo de edad menor de 19 años, y de los años 2018 a 2013.
+* **generated_output/output_poblacion.xlsx**: fichero excel con el dataset final que contiene la población de España con nacionalidad española, africana o total, por sexo y por grupo de edad menor de 19 años, y de los años 2018 a 2013. 
 
 ### **Data visualizations:**
 * **tableau/Periodismo de datos_ Menores Condenados.twbx**: fichero de tipo tableau con el que se ha creado el dashboard para la visualización de los menores condenados en España. Dicha visualización está publicada en Tableau Public en el siguiente enlace: https://public.tableau.com/shared/KPTZ74WGN?:display_count=y&:origin=viz_share_link.
