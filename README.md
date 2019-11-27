@@ -20,6 +20,7 @@ Para la visualización de dichos datos se usará Python y Tableau.
 
 ### **Documentación:**
 * **doc/Reportaje periodístco con datos.docx**: fichero Word, que explica la metodologia, la extracción, el analisis y las visualicaciones de los datos, las conclusiones y resultados, y el hilo argumental del reportaje. 
+* **doc/Reportaje periodístco con datos.pdf**: fichero PDF, que explica la metodologia, la extracción, el analisis y las visualicaciones de los datos, las conclusiones y resultados, y el hilo argumental del reportaje. 
 
 ### **Final dataset:**
 * **generated_output/output_condenas_menores.xlsx**: fichero Excel con el dataset final que contiene los menores condenados anuales según el sexo, la edad y la nacionalidad de los años 2018 a 2013.
