@@ -17,7 +17,10 @@ Para la visualización de dichos datos se usará Python y Tableau.
 ### **Dataset original:**
 * **data_sources/25721.xls**: fichero Excel con el dataset original, que contiene los menores condenados anuales según el sexo, la edad y la nacionalidad de los años 2018 a 2013, se ha extraído del Instituto Nacional de Estadística, en el siguiente link: https://www.ine.es/jaxiT3/Tabla.htm?t=25721&L=0 .
 * **data_sources/9674.xls**: fichero Excel con el dataset original, que contiene la nacionalidad de la población de España, por sexo, fecha y grupo de edad y de los años 2019 a 2012. Se ha extraído del Instituto Nacional de Estadística, en el siguiente link: https://www.ine.es/jaxiT3/Tabla.htm?t=9674&L=0 .
- 
+
+### **Documentación:**
+* **doc/Reportaje periodístco con datos.docx**: fichero Word, que explica la metodologia, la extracción, el analisis y las visualicaciones de los datos, las conclusiones y resultados, y el hilo argumental del reportaje. 
+
 ### **Final dataset:**
 * **generated_output/output_condenas_menores.xlsx**: fichero Excel con el dataset final que contiene los menores condenados anuales según el sexo, la edad y la nacionalidad de los años 2018 a 2013.
 * **generated_output/output_poblacion.xlsx**: fichero Excel con el dataset final que contiene la población de España con nacionalidad española, africana o total, por sexo y por grupo de edad menor de 19 años, y de los años 2019 a 2013.
